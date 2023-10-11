@@ -21,7 +21,7 @@ During this talk, I examine multiple examples of Reverse Engineering iOS obfusca
 The [iOS Reverse Engineering](https://github.com/LaurieWired/iOS_Reverse_Engineering) repository contains a comprehensive wiki on iOS Reverse Engineering. It also includes custom Ghidra scripts for iOS analysis, and even example IPA files demonstrating different forms of obfuscation!
 
 ## Link References
-### Static Obfuscators
+### Open Source Static Obfuscators
 - Obfuscator-LLVM
   - https://github.com/obfuscator-llvm/obfuscator/tree/llvm-4.0
 - Sirius Obfuscator
