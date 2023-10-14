@@ -4,9 +4,9 @@
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/LaurieWired/iOS_Reverse_Engineering)](https://github.com/LaurieWired/iOS_Reverse_Engineering/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/LaurieWired/iOS_Reverse_Engineering)](https://github.com/LaurieWired/iOS_Reverse_Engineering/network/members)
-[![GitHub contributors](https://img.shields.io/github/contributors/LaurieWired/iOS_Reverse_Engineering)](https://github.com/LaurieWired/iOS_Reverse_Engineering/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/LaurieWired/ObjectiveByTheSea2023)](https://github.com/LaurieWired/iOS_Reverse_Engineering/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/LaurieWired/ObjectiveByTheSea2023)](https://github.com/LaurieWired/iOS_Reverse_Engineering/network/members)
+[![GitHub contributors](https://img.shields.io/github/contributors/LaurieWired/ObjectiveByTheSea2023)](https://github.com/LaurieWired/iOS_Reverse_Engineering/graphs/contributors)
 [![Follow @lauriewired on Twitter](https://img.shields.io/twitter/follow/lauriewired?style=social)](https://twitter.com/lauriewired)
 
 </div>
